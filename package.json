@@ -1,0 +1,12 @@
+{
+  "name": "parcel-rust",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.9.7"
+  },
+  "scripts": {
+  	"parcel": "parcel src/index.html"
+  }
+}
